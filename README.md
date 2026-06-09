@@ -40,9 +40,6 @@ Currently deep into **Account Abstraction** (ERC-4337 / ERC-7579) — the direct
 
 [![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go)](https://skillicons.dev)
 
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=linux,docker,github,githubactions)](https://skillicons.dev)
 
 ---
 
