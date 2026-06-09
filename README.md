@@ -55,8 +55,6 @@ Currently deep into **Account Abstraction** (ERC-4337 / ERC-7579) — the direct
 ## 📝 Writing
 
 Technical articles on Web3 and smart contracts at **[web3-blog-lac.vercel.app](https://web3-blog-lac.vercel.app)**  
-Building in public under **[dezen.ai](https://dezen.ai)** — Web3 tooling and smart contract auditing.
-
 ---
 
 <div align="center">
