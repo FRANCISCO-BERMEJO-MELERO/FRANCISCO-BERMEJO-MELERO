@@ -1,65 +1,72 @@
-# 👋 Hi, I'm Fran
+<div align="center">
 
-### 🚀 Web3 Developer | Blockchain • Smart Accounts • Wallets • dApps
+# Hey, I'm Fran 👋
 
-I'm passionate about **Web3 development** and the entire ecosystem: **blockchain protocols, smart contracts, dApps, wallets, DeFi, social login, and developer tooling**.  
-I enjoy building full-stack Web3 applications, experimenting with new technologies, and understanding how systems behave under the hood.
+**Web3 Developer — Full-Stack · Smart Contracts · Developer Tooling**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-bermejo-melero-250669302/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/)
+[![Website](https://img.shields.io/badge/dezen.ai-000000?style=flat&logo=vercel&logoColor=white)](https://dezen.ai)
 
-## 🧩 What I'm currently working on
-
-- Developing and integrating **Smart Accounts** (Kernel, Safe, Permissionless)  
-- Building **dApps** with wallet integrations (**RainbowKit, MetaMask, Web3Auth, Sapphire**)  
-- Experimenting with **ERC standards** like ERC-4337, ERC-7579, and paymasters  
-- Sending and debugging **UserOperations** using bundlers (Pimlico, Anvil)  
-- Exploring **DeFi integrations, NFTs, and cross-dApp compatibility**  
-- Full-stack Web3 development: frontend + blockchain + backend tooling  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+Full-stack Web3 developer focused on building useful things: on-chain tools, dApps, and developer utilities.  
+I enjoy working close to the protocol layer — smart contracts, wallets, and the infrastructure that makes Web3 actually usable.
 
-### **Blockchain / Web3**
-- Solidity & Smart Contracts  
-- ERC standards: ERC-20, ERC-4337, ERC-7579  
-- Smart Accounts: Kernel, Safe, Permissionless  
-- Bundlers: Pimlico, Anvil  
-- Wallets: MetaMask, RainbowKit, Web3Auth, Sapphire  
-- DeFi & NFT integrations  
+Currently deep into **Account Abstraction** (ERC-4337 / ERC-7579) — the direction wallets and dApps are heading.
 
-### **Frontend**
-- TypeScript  
-- React + Vite  
-- RainbowKit / Wagmi / Viem  
-- TailwindCSS  
+---
 
-### **Tools / DevOps**
-- Hardhat / Foundry / Anvil  
-- SSH, GitHub Actions, deploy keys  
-- Linux / WSL  
+## 🔨 What I'm building
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **[chainview](https://github.com/FRANCISCO-BERMEJO-MELERO)** | Go · Bubble Tea | lazygit-style TUI for EVM wallets |
+| **[Web3 Blog](https://web3-blog-lac.vercel.app)** | Next.js | Technical writing on Web3 |
+
+---
+
+## 🛠️ Stack
+
+**Blockchain / Web3**
+
+[![Blockchain](https://skillicons.dev/icons?i=solidity,hardhat,ipfs)](https://skillicons.dev)
+
+`Foundry` `Anvil` `Wagmi` `Viem` `ERC-4337` `ERC-7579` `Cosmos SDK` `Layer 2s`
+
+**Frontend / Backend**
+
+[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=linux,docker,github,githubactions)](https://skillicons.dev)
 
 ---
 
 ## 🧠 Interests
 
-- Full-stack Web3 architecture  
-- Interoperability between dApps  
-- Modular smart accounts and wallet strategies  
-- Gas payment systems and paymasters  
-- Security and auditing of smart contracts and AA setups  
-- Developer tooling to simplify Web3 integration  
+- **Account Abstraction** — smart accounts, paymasters, modular wallets
+- **Smart contract security** — audit tooling, AA-specific attack vectors
+- **Developer tooling** — CLIs, TUIs, anything that makes Web3 dev less painful
+- **Protocol internals** — how things actually work under the hood
 
 ---
 
-## 📫 Contact
+## 📝 Writing
 
-- LinkedIn : https://www.linkedin.com/in/francisco-bermejo-melero-250669302/
+Technical articles on Web3 and smart contracts at **[web3-blog-lac.vercel.app](https://web3-blog-lac.vercel.app)**  
+Building in public under **[dezen.ai](https://dezen.ai)** — Web3 tooling and smart contract auditing.
 
 ---
 
-## ⭐ If you're into Web3…
+<div align="center">
 
-Always exploring the Web3 ecosystem, building dApps, experimenting with wallets, Smart Accounts, and blockchain protocols.  
-If you’re working on similar projects or want to collaborate, feel free to reach out!
-****
+**Open to conversations about Web3.**  
+Feel free to reach out 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-bermejo-melero-250669302/)
+
+</div>
