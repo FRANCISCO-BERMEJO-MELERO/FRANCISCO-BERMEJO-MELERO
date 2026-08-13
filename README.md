@@ -49,7 +49,7 @@ Multi-network, no API keys required. Built in Go with Bubble Tea.
 
 **Frontend / Backend**
 
-[![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,go,python)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python)](https://skillicons.dev)
 
 **AI & Automation**
 
