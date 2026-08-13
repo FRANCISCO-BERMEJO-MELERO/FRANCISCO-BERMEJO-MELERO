@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./banner.jpg" alt="" width="720">
+</div>
+<div align="center">
 
 # Hey, I'm Fran 👋
 
